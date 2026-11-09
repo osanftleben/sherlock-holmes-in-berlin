@@ -1,0 +1,15 @@
+{
+  "name": "Sherlock Holmes in Berlin",
+  "short_name": "Holmes Berlin",
+  "description": "Fall 1: Der Uhrmacher von der Rosenthaler Straße – ein Detektivspiel, Berlin 1892.",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#14110e",
+  "theme_color": "#14110e",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "sherlock-holmes-in-berlin",
+  "version": "1.0.0",
+  "description": "Sherlock Holmes in Berlin – Fall 1: Der Uhrmacher von der Rosenthaler Straße. Ein WebGL-Detektivspiel für Browser auf PC und Smartphone.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node tools/check.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}
